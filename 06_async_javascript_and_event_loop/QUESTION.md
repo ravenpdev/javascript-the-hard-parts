@@ -1,3 +1,5 @@
+# Asynchronous JavaScript and the event loop
+
 #### How many things can JavaScript's thread of execution do at once?
 
 One. JavaScript can only do one thing at a time within its execution thread.
